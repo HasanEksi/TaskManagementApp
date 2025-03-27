@@ -13,7 +13,7 @@ Bu proje, Laravel ve Livewire kullanılarak geliştirilmiş modern bir görev y�
 
 1. Projeyi klonlayın:
 ```bash
-git clone [proje-url]
+git clone https://github.com/HasanEksi/TaskManagementApp
 cd TaskManagementApp
 ```
 
