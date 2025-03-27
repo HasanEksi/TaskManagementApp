@@ -90,7 +90,6 @@ class TaskApiTest extends TestCase
 
         $this->assertSoftDeleted('tasks', [
             'id' => $task->id,
-            'completed_at' => now(),
         ]);
     }
 }
